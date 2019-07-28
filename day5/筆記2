@@ -1,0 +1,37 @@
+1.定義
+
+模塊：
+a.用來從邏輯上組織python代碼(變量、函數、類、邏輯:實現一個功能) .
+b.py結尾的python文件(文件名: test.py,對應的模塊名:test)
+c."""本質就是去實現一個功能"""
+
+資料夾：
+A.本質就是個目錄(必須帶有一個__init__.py文件)
+B.用來從邏輯上組織模塊的
+
+2.導入方法
+import module_name
+import module1,module2
+from module1 import * (導入module1 所有模塊) (不建議)
+form module1 import name as mod_name
+
+3.import本質(路徑搜索和搜索路徑)
+導入模塊的本質就是把python文件解釋一遍(import test test='test.py all code')
+導入資料夾的本質就是執行該資料夾的__init__.py
+import module1---->module1.py----->module1的路徑---->sys.path
+
+
+4.導入優化
+from module_test import test
+
+5.模塊的分類
+a.標準庫:
+1.time與datetimet
+x = time.localtime
+>>> time.strftime("%Y-%m-%d %H:%M:%S",x)
+'2019-07-04 20:39:40'
+>>> time.strptime('2019-7-4 20:38:50',"%Y-%m-%d %H:%M:%S")
+time.struct_time(tm_year=2019, tm_mon=7, tm_mday=4, tm_hour=20, tm_min=38, tm_sec=50, tm_wday=3, tm_yday=185, tm_isdst=-1)
+
+b.開源模塊
+c.自定義模塊
