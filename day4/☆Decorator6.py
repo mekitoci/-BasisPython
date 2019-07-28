@@ -26,7 +26,7 @@ def index():
 @auth(auth_type = "local")
 def home():
     print("welcome to home page! ")
-    return "Kathy love"
+    return "love"
 
 @auth(auth_type = "ldap")
 def bbs():
