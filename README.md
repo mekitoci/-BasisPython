@@ -2,7 +2,7 @@ This program is about my boring summer vacation when i graduated in Kinmen Senio
 
 Although only 7 days's file to read , but it including complete python basis skills.
 
-ex. 1.Hello,World! ,
+ex. 1.Hello,World! ,'\n'
     2.for loop , 
     3.while loop ,
     4.sys,os mod ,
