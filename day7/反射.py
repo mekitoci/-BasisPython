@@ -15,7 +15,7 @@ choice = input("＞＞：").strip()
 if hasattr(d,choice):
     delattr(d,choice)
     # attr = getattr(d,choice)
-    # # func("Kathy")
+    # # func("Jax")
     # setattr(d,choice,"LeeSin")
 else:
     # setattr(d,choice,bulk)
