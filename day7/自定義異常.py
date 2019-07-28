@@ -6,6 +6,6 @@ class MelodyException (Exception):
         return self.message
 
 try:
-    raise MelodyException('沒有喜歡上你')
+    raise MelodyException('Cool!')
 except MelodyException as e:
     print(e)
