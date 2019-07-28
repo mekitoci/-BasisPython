@@ -8,7 +8,7 @@ Hello,world!,for迴圈,while迴圈,sys,os模組,交互,變量,位元,字典({}),
 
 簡單來說：涵括了所有基礎python!!
 
-你可以看我的程式練習Coding,了解一些基礎知識,學程式沒有捷徑,一行一行的code吧！
+你可以看我的程式練習Coding，了解一些基礎知識，學程式沒有捷徑，一行一行的code吧！
 
 This program is about my boring summer vacation when i graduated in Kinmen Senior High school..
 
