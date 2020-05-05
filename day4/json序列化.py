@@ -5,7 +5,7 @@ def sayhi(name):
     return 'love you'
 
 info = {
-    'name' : 'Kathy',
+    'name' : 'Henry',
     'age' : 18,
     'func' :sayhi
 }
