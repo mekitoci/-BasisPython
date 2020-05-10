@@ -2,7 +2,7 @@
 
 雖然只有七天的檔案可以閱讀，不過裡面包含了所有基礎python的技巧！
 
-像是： 
+** Table of Skills **
 
 Hello,world!,for迴圈,while迴圈,sys,os模組,交互,變量,位元,字典({}),清單([]),字串,tuple(()),函數,高階函數,遞迴,本地/全局變量,操作/修改文件,裝飾器,生成器,json序列化,pickle,xml編碼,類(OPP物件導向)
 
