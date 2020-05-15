@@ -1,42 +1,46 @@
-這些程序是在2019年從高中畢業後無聊的暑假完成！
+# Basis Python by Mekitoci
 
-雖然只有七天的檔案可以閱讀，不過裡面包含了所有基礎python的技巧！
+----
+## what is Python?
+>Python（英國發音：/ˈpaɪθən/ 美國發音：/ˈpaɪθɑːn/）是一種廣泛使用的直譯式、進階程式、通用型程式語言，由吉多·范羅蘇姆創造，第一版釋出於1991年。Python是ABC語言的後繼者，也可以視之為一種使用傳統中綴表達式的LISP方言[4]。Python的設計哲學強調代碼的可讀性和簡潔的語法（尤其是使用空格縮排劃分代碼塊，而非使用大括號或者關鍵詞）。相比於C++或Java，Python讓開發者能夠用更少的代碼表達想法。不管是小型還是大型程式，該語言都試圖讓程式的結構清晰明瞭。
 
-** Table of Skills **
+----
+## What this Repositories show? 
+>This program is about my boring summer vacation when i graduated in Kinmen Senior High school..
 
-Hello,world!,for迴圈,while迴圈,sys,os模組,交互,變量,位元,字典({}),清單([]),字串,tuple(()),函數,高階函數,遞迴,本地/全局變量,操作/修改文件,裝飾器,生成器,json序列化,pickle,xml編碼,類(OPP物件導向)
+>Although only 7 days's file to read,but it including complete python basis skills.
 
-簡單來說：涵括了所有基礎python!!
+# Content
 
-你可以看我的程式練習Coding，了解一些基礎知識，學程式沒有捷徑，一行一行的code吧！
+* Hello,world! 
+* for迴圈 (for loop)
+* while迴圈 (while loop)
+* sys,os模組 (import sys , os)
+* 交互
+* 變量(variable) 
+* 位元(byte)
+* 字典({}) (direction)
+* 清單([]) (Lists)
+* 字串 (String)
+* tuple(())
+* 函數 (defination)
+* 高階函數 
+* 遞迴 (recursion)
+* 本地/全局變量 (local/)
+* 操作/修改文件
+* 裝飾器 (decorator)
+* 生成器 (generator)
+* json序列化
+* pickle
+* xml編碼
+* 類(OPP物件導向) (class)
 
-This program is about my boring summer vacation when i graduated in Kinmen Senior High school..
 
-Although only 7 days's file to read , but it including complete python basis skills.
+----
+## changelog
+* 15-May-2020 RE-design
 
-ex. 1.Hello,World! ,'\n'
-    2.for loop , 
-    3.while loop ,
-    4.sys,os mod ,
-    5.interaction , 
-    6.variable , 
-    7.bytes , 
-    8.dictionary , 
-    9.list , 
-    10.string , 
-    11.tuple , 
-    12.function ,
-    13.high function , 
-    14.recursion , 
-    15.local/global variable , 
-    16.operation/revise file , 
-    17.decorator , 
-    18.generator , 
-    19.json , 
-    20.xml , 
-    21.pickle , 
-    22.class ..
-    
-EASY TO SAY : IT INCLUDING ALL ABOUT BASIS PYTHON :: 
+----
+## thanks for your watching
+* [mekitoci basis python](https://github.com/mekitoci/basis-python)
 
-YOU CAN PRACTICE ALL OF MY CODE .. THANK YOU  HARD WORKING TOGETHER!! 
